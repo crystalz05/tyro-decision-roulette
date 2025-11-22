@@ -1,5 +1,3 @@
-Here’s the improved README section with a clean **Screenshots** area added. This version looks professional and ready for GitHub.
-
 ---
 
 # **📱 Decision Roulette App**
@@ -44,13 +42,7 @@ A clean and lightweight Android app that helps users make quick choices by spinn
 
 ## **🖼️ Screenshots**
 
-Add your screenshots to a folder named **/screenshots** in the project root, then reference them here like this:
-
-| Home Screen                                   | Category Screen                                   | Roulette Spin                                     |
-| --------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-| <img src="screenshots/home.png" width="250"/> | <img src="screenshots/category.png" width="250"/> | <img src="screenshots/roulette.png" width="250"/> |
-
-> *Make sure your screenshot filenames match what you put above.*
+(comming soon)
 
 ---
 
@@ -66,7 +58,3 @@ Add your screenshots to a folder named **/screenshots** in the project root, the
 ## **📄 License**
 
 MIT License
-
----
-
-If you want, I can generate a **logo/banner** for the top of your README or help you write a polished **About the Project** section.
