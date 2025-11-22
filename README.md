@@ -1,22 +1,22 @@
 Decision Roulette App
 
-A simple app that helps users make choices by spinning a customizable roulette wheel. Users can create categories, add options, and generate decisions instantly.
+A clean and lightweight Android app that helps users make quick choices by spinning a customizable roulette wheel. Create categories, add your own options, and let the app decide instantly. Simple, fun, and practical.
 
 Features
 
 Create custom decision categories
 
-Add/Edit/Delete options inside each category
+Add, edit, and delete options inside each category
 
-Spin a roulette wheel to pick a random option
+Spin a roulette wheel to generate a random choice
 
-Weighted options
+Weighted options (optional)
 
-Local storage with Room database
+Local data storage using Room Database
 
-Simple history of past decisions
+History of past decisions
 
-Smooth UI animations using Jetpack Compose
+Smooth UI animations powered by Jetpack Compose
 
 Tech Stack
 
@@ -26,27 +26,31 @@ Jetpack Compose
 
 Room Database
 
-MVVM architecture
+MVVM Architecture
 
 Android Studio
 
-📚 Project Structure
-/ui
-/data
-/domain
-/components
-/utils
+Project Structure
+/ui          → Screens, composables, and UI logic
+/data        → Database, DAOs, entities, repositories
+/domain      → Use cases and business logic
+/components  → Reusable UI components
+/utils       → Helpers, extensions, constants
+
+🖼️ Screenshots
+(comming soon)
+
 
 Getting Started
 
-Clone the repo
+Clone the repository
 
-Open in Android Studio
+Open the project in Android Studio
 
 Sync Gradle
 
-Run the app
+Run the app on an emulator or device
 
 License
 
-MIT License.
+MIT License
