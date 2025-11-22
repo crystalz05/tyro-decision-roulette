@@ -1,12 +1,12 @@
 ---
 
-# **📱 Decision Roulette App**
+# **Decision Roulette App**
 
 A clean and lightweight Android app that helps users make quick choices by spinning a customizable roulette wheel. Create categories, add your own options, and let the app decide instantly. Simple, fun, and practical.
 
 ---
 
-## **✨ Features**
+## **Features**
 
 * Create custom decision categories
 * Add, edit, and delete options inside each category
@@ -18,7 +18,7 @@ A clean and lightweight Android app that helps users make quick choices by spinn
 
 ---
 
-## **🧰 Tech Stack**
+## **Tech Stack**
 
 * **Kotlin**
 * **Jetpack Compose**
@@ -28,7 +28,7 @@ A clean and lightweight Android app that helps users make quick choices by spinn
 
 ---
 
-## **📁 Project Structure**
+## **Project Structure**
 
 ```
 /ui          → Screens, composables, and UI logic
@@ -40,13 +40,13 @@ A clean and lightweight Android app that helps users make quick choices by spinn
 
 ---
 
-## **🖼️ Screenshots**
+## **Screenshots**
 
 (comming soon)
 
 ---
 
-## **🚀 Getting Started**
+## **Getting Started**
 
 1. Clone the repository
 2. Open the project in Android Studio
@@ -55,6 +55,6 @@ A clean and lightweight Android app that helps users make quick choices by spinn
 
 ---
 
-## **📄 License**
+## **License**
 
 MIT License
