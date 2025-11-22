@@ -1,56 +1,72 @@
-Decision Roulette App
+Here’s the improved README section with a clean **Screenshots** area added. This version looks professional and ready for GitHub.
+
+---
+
+# **📱 Decision Roulette App**
 
 A clean and lightweight Android app that helps users make quick choices by spinning a customizable roulette wheel. Create categories, add your own options, and let the app decide instantly. Simple, fun, and practical.
 
-Features
+---
 
-Create custom decision categories
+## **✨ Features**
 
-Add, edit, and delete options inside each category
+* Create custom decision categories
+* Add, edit, and delete options inside each category
+* Spin a roulette wheel to generate a random choice
+* Weighted options (optional)
+* Local data storage using Room Database
+* History of past decisions
+* Smooth UI animations powered by Jetpack Compose
 
-Spin a roulette wheel to generate a random choice
+---
 
-Weighted options (optional)
+## **🧰 Tech Stack**
 
-Local data storage using Room Database
+* **Kotlin**
+* **Jetpack Compose**
+* **Room Database**
+* **MVVM Architecture**
+* **Android Studio**
 
-History of past decisions
+---
 
-Smooth UI animations powered by Jetpack Compose
+## **📁 Project Structure**
 
-Tech Stack
-
-Kotlin
-
-Jetpack Compose
-
-Room Database
-
-MVVM Architecture
-
-Android Studio
-
-Project Structure
+```
 /ui          → Screens, composables, and UI logic
 /data        → Database, DAOs, entities, repositories
 /domain      → Use cases and business logic
 /components  → Reusable UI components
 /utils       → Helpers, extensions, constants
+```
 
-🖼️ Screenshots
-(comming soon)
+---
 
+## **🖼️ Screenshots**
 
-Getting Started
+Add your screenshots to a folder named **/screenshots** in the project root, then reference them here like this:
 
-Clone the repository
+| Home Screen                                   | Category Screen                                   | Roulette Spin                                     |
+| --------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+| <img src="screenshots/home.png" width="250"/> | <img src="screenshots/category.png" width="250"/> | <img src="screenshots/roulette.png" width="250"/> |
 
-Open the project in Android Studio
+> *Make sure your screenshot filenames match what you put above.*
 
-Sync Gradle
+---
 
-Run the app on an emulator or device
+## **🚀 Getting Started**
 
-License
+1. Clone the repository
+2. Open the project in Android Studio
+3. Sync Gradle
+4. Run the app on an emulator or device
+
+---
+
+## **📄 License**
 
 MIT License
+
+---
+
+If you want, I can generate a **logo/banner** for the top of your README or help you write a polished **About the Project** section.
